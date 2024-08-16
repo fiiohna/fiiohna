@@ -6,7 +6,7 @@
 
 - I'm a Penultimate Student at Singapore Management University (SMU), pursuing Information Systems (With a major in Digitalisation and Cloud Solutions)
 
-- My interest lies in cloud computing and cybersecurity
+- I'm interested in cloud computing and cybersecurity!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
