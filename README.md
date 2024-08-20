@@ -4,7 +4,7 @@
 
 - I'm Fiona Li
 
-- I'm a Penultimate Student at Singapore Management University (SMU), pursuing Information Systems (With a major in Digitalisation and Cloud Solutions)
+- I'm a final year student at Singapore Management University (SMU), pursuing Information Systems (With a major in Digitalisation and Cloud Solutions)
 
 - I'm interested in cloud computing and cybersecurity!
 
