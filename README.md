@@ -2,12 +2,15 @@
 
 <h3 align="left">About me:</h3>
 
-- I'm Fiona Li
+- 👋 I'm Fiona Li
 
-- I'm a final year student at Singapore Management University (SMU), pursuing Information Systems (With a major in Digitalisation and Cloud Solutions)
+- 🎓 I'm a final year student at Singapore Management University (SMU), pursuing Information Systems (With a major in Digitalisation and Cloud Solutions)
 
-- I'm interested in cloud computing and cybersecurity!
+- ☁️ I'm interested in cloud computing and cybersecurity!
 
+- ☀️ Fun fact about me: I enjoy playing badminton🏸 and volleyball🏐
+
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fionali02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fionali02" height="30" width="40" /></a>
