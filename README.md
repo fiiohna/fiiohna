@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=F767D7DA&width=435&lines=Hi%F0%9F%91%8B+Welcome+to+my+Github)](https://git.io/typing-svg)
+--------------------------------------------
 
 <h3 align="left">About me:</h3>
 
