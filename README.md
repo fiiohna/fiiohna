@@ -5,9 +5,9 @@
 
 - 👋 I'm Fiona Li
 
-- 🎓 I'm a final year student at Singapore Management University (SMU), pursuing Information Systems (With a major in Digitalisation and Cloud Solutions)
+- 🎓 I'm a graduate from Singapore Management University (SMU), with a degree in Information Systems (Majoring in Digitalisation and Cloud Solutions)
 
-- ☁️ I'm interested in cloud computing and cybersecurity!
+- ☁️ I'm interested in cloud computing and devops!
 
 - ☀️ Fun fact about me: I enjoy playing badminton🏸 and volleyball🏐
 
